@@ -1,0 +1,38 @@
+{
+  "name": "threejs-japanese-floating-diorama",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Japanese floating island diorama in Three.js, with baked Blender lighting and GLSL shaders.",
+  "keywords": [
+    "threejs",
+    "webgl",
+    "glsl",
+    "shaders",
+    "blender",
+    "gltf",
+    "draco",
+    "baked-lighting",
+    "diorama",
+    "creative-coding"
+  ],
+  "author": "cesartevisual",
+  "homepage": "https://cesartevisual.github.io/threejs-japanese-floating-diorama/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesartevisual/threejs-japanese-floating-diorama.git"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.2.2",
+    "vite-plugin-restart": "^0.4.2",
+    "vite-plugin-glsl": "1.3.3"
+  },
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "three": "^0.174.0"
+  }
+}

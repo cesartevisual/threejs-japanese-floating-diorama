@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cesartevisual.github.io/threejs-japanese-floating-diorama/sitemap.xml

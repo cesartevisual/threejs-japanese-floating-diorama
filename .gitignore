@@ -1,0 +1,4 @@
+node_modules
+dist
+.avocado-cache
+.DS_Store
